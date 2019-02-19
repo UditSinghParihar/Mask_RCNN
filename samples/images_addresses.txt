@@ -1,0 +1,13 @@
+/home/cair/data/complete_chairs/blue_chair/images/rgb/1.jpg 
+/home/cair/data/complete_chairs/blue_chair/images/depth/1.png
+/home/cair/data/complete_chairs/blue_chair/images/rgb/340.jpg
+/home/cair/data/complete_chairs/blue_chair/images/depth/340.png
+/home/cair/data/complete_chairs/white_chair/white_chair_images/rgb/20.jpg
+/home/cair/data/complete_chairs/white_chair/white_chair_images/depth/20.png
+/home/cair/data/complete_chairs/white_chair/white_chair_images/rgb/347.jpg
+/home/cair/data/complete_chairs/white_chair/white_chair_images/depth/347.png
+/home/cair/data/main_lab/images/rgb/41.jpg
+/home/cair/data/main_lab/images/depth/41.png
+/home/cair/data/main_lab/images/rgb/70.jpg
+/home/cair/data/main_lab/images/depth/70.png
+-
